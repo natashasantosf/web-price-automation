@@ -1,4 +1,4 @@
-# 🛒 Web Price Automation
+# 🛒 Web Price Search Automation
 
 This project automates the process of comparing product prices across multiple websites using **Python and Selenium**.
 
@@ -7,7 +7,7 @@ checking suppliers’ websites to find the best prices and automatically sending
 
 ---
 
-## 🎯 Objective
+## 🎯 Goal
 To automate price collection from different sources (Google Shopping, Buscapé) and generate a report with the most affordable options within a price range.
 
 ---
